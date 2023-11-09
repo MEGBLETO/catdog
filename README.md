@@ -65,6 +65,10 @@ docker compose :
 
 ![push](image/compose.png)
 
+docker ps: 
+
+![push](image/cont.png)
+
 
 
 
