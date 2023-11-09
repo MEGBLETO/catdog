@@ -11,7 +11,7 @@ Site pour voté entre chat ou chien pour savoir qui va conquerir le monde.
 2. [network-registry](#network-registry)
 3. [création et build des Dockerfiles](#build-Dockerfiles)
 4. [addregistry](#Addregistry)
-5. [Contribuer](#contribuer)
+5. [dockerhub](#imagedockerhub)
 6. [Licence](#licence)
 
 ## Groupe 
@@ -47,6 +47,10 @@ tag les images :
 push les images : 
 
 ![push](image/push.png)
+
+## imagedockerhub
+
+![push](image/imagedocker.png)
 
 
 
