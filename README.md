@@ -61,6 +61,11 @@ image du registery front :
 
 ![push](image/registrefr.png)
 
+docker compose : 
+
+![push](image/compose.png)
+
+
 
 
 
