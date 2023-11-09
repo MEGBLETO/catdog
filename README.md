@@ -22,7 +22,11 @@ Site pour voté entre chat ou chien pour savoir qui va conquerir le monde.
 
 
 ## network-registry
-screen du réseau et du registry :
+screen de la création du réseau :
+
+![front](image/frontn.png)
+
+![back](image/back.png)
 
 
 
@@ -33,6 +37,6 @@ commande pour build les dockerfiles :
 
 ## Addregistry
 tag les images : 
-![build](image/tag.png)
+![tag](image/tag.png)
 
 
