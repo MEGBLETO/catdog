@@ -50,6 +50,8 @@ push les images :
 
 ## imagedockerhub
 
+screen dockerhub des images :
+
 ![push](image/imagedocker.png)
 
 
