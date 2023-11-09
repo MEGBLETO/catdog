@@ -8,10 +8,10 @@ Site pour voté entre chat ou chien pour savoir qui va conquerir le monde.
 
 ## Table des matières
 1. [Groupe](#Groupe)
-2. [network-registry](#network-registry)
+2. [ajout du network et registry](#network-registry)
 3. [création et build des Dockerfiles](#build-Dockerfiles)
-4. [addregistry](#Addregistry)
-5. [dockerhub](#imagedockerhub)
+4. [ajout sur le registry](#Addregistry)
+5. [sreen dockerhub image](#imagedockerhub)
 6. [Licence](#licence)
 
 ## Groupe 
