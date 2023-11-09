@@ -7,15 +7,25 @@ This repository is resources for teaching at Ynov School
 Site pour voté entre chat ou chien pour savoir qui va conquerir le monde.
 
 ## Table des matières
-1. [Reseau-privé/network ](#Reseau-privé/network)
-2. [création et build des Dockerfiles](#build)
-3. [Configuration](#configuration)
-4. [Contribuer](#contribuer)
-5. [Licence](#licence)
+1. [Groupe](#Groupe)
+2. [Reseau-privé/network](#Reseau-privé/network)
+3. [création et build des Dockerfiles](#build-Dockerfiles)
+4. [Configuration](#configuration)
+5. [Contribuer](#contribuer)
+6. [Licence](#licence)
+
+## Groupe 
+
+1. Enzo SABBATORSI
+2. Carnel MEGBLETO
+3. Omaima BELMADKOUR
+
 
 ## #Reseau-privé/network
 
 
-## build
+
+## build-Dockerfiles
 commande pour build les dockerfiles :
-![Logo](image/cbuild.png)
+
+![build](image/cbuild.png)
