@@ -8,7 +8,7 @@ Site pour voté entre chat ou chien pour savoir qui va conquerir le monde.
 
 ## Table des matières
 1. [Groupe](#Groupe)
-2. [Reseau-privé/network](#Reseau-privé/network)
+2. [Reseau-privé/network](#R/N)
 3. [création et build des Dockerfiles](#build-Dockerfiles)
 4. [addregistry](#Addregistry)
 5. [Contribuer](#contribuer)
@@ -21,7 +21,7 @@ Site pour voté entre chat ou chien pour savoir qui va conquerir le monde.
 3. Omaima BELMADKOUR
 
 
-## Reseau-privé/network
+## R/N
 
 
 
