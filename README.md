@@ -10,7 +10,7 @@ Site pour voté entre chat ou chien pour savoir qui va conquerir le monde.
 1. [Groupe](#Groupe)
 2. [Reseau-privé/network](#Reseau-privé/network)
 3. [création et build des Dockerfiles](#build-Dockerfiles)
-4. [Configuration](#configuration)
+4. [addregistry](#addregistry)
 5. [Contribuer](#contribuer)
 6. [Licence](#licence)
 
@@ -29,3 +29,9 @@ Site pour voté entre chat ou chien pour savoir qui va conquerir le monde.
 commande pour build les dockerfiles :
 
 ![build](image/cbuild.png)
+
+## addregistry
+tag les images : 
+![build](image/tag.png)
+
+
