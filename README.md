@@ -10,7 +10,7 @@ Site pour voté entre chat ou chien pour savoir qui va conquerir le monde.
 1. [Groupe](#Groupe)
 2. [Reseau-privé/network](#Reseau-privé/network)
 3. [création et build des Dockerfiles](#build-Dockerfiles)
-4. [addregistry](#addregistry)
+4. [addregistry](#Addregistry)
 5. [Contribuer](#contribuer)
 6. [Licence](#licence)
 
@@ -21,7 +21,7 @@ Site pour voté entre chat ou chien pour savoir qui va conquerir le monde.
 3. Omaima BELMADKOUR
 
 
-## #Reseau-privé/network
+## Reseau-privé/network
 
 
 
@@ -30,7 +30,7 @@ commande pour build les dockerfiles :
 
 ![build](image/cbuild.png)
 
-## addregistry
+## Addregistry
 tag les images : 
 ![build](image/tag.png)
 
