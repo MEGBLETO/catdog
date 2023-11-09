@@ -12,7 +12,7 @@ Site pour voté entre chat ou chien pour savoir qui va conquerir le monde.
 3. [création et build des Dockerfiles](#build-Dockerfiles)
 4. [ajout sur le registry](#Addregistry)
 5. [sreen dockerhub image](#imagedockerhub)
-6. [Licence](#licence)
+6. [network inspect et registry ](#final)
 
 ## Groupe 
 
@@ -53,6 +53,15 @@ push les images :
 screen dockerhub des images :
 
 ![push](image/imagedocker.png)
+
+
+## final
+
+image du registery front :
+
+![push](image/registrefr.png)
+
+
 
 
 
