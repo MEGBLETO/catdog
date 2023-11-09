@@ -22,6 +22,7 @@ Site pour voté entre chat ou chien pour savoir qui va conquerir le monde.
 
 
 ## R/N
+screen du réseau et du registry :
 
 
 
