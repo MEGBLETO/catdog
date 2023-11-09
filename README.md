@@ -28,6 +28,10 @@ screen de la création du réseau :
 
 ![back](image/back.png)
 
+screen de la création du registry :
+
+
+
 
 
 ## build-Dockerfiles
@@ -37,6 +41,12 @@ commande pour build les dockerfiles :
 
 ## Addregistry
 tag les images : 
+
 ![tag](image/tag.png)
+
+push les images : 
+
+![push](image/push.png)
+
 
 
